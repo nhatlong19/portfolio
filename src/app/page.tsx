@@ -236,7 +236,7 @@ export default function Home() {
               </div>
               <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start mb-8">
                 <a
-                  href="/NguyenQuocDai_CV_HCM.pdf"
+                  href="LY_NHAT_LONG-CV.pdf"
                   download
                   className="inline-block px-6 py-2 rounded-full bg-gradient-to-r from-blue-400 to-purple-400 dark:from-blue-500 dark:to-purple-500 text-white font-semibold shadow-lg hover:scale-105 transition-transform"
                 >
