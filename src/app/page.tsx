@@ -91,13 +91,13 @@ export default function Home() {
   return (
     <ThemeContext.Provider value={{ theme, toggleTheme }}>
       <div
-        className={`z-999 fixed top-4 left-0 right-0 flex justify-center pointer-events-none transition-all duration-300`}
+        className={`z-99999 fixed top-4 left-0 right-0 flex justify-center pointer-events-none transition-all duration-300`}
       >
         <header
-          className={`z-999 w-full max-w-5xl mx-auto h-[60px] flex items-center justify-between px-6 transition-all duration-300 pointer-events-auto
+          className={`border border-black/10 dark:border-white/30 z-999 w-full max-w-5xl mx-auto h-[60px] rounded-2xl flex items-center justify-between px-6 transition-all duration-300 pointer-events-auto
             ${
               isScrolled
-                ? 'bg-white/80 dark:bg-black/90 backdrop-blur-md rounded-2xl border border-black/10 dark:border-white/10 shadow-lg'
+                ? 'bg-white/80 dark:bg-black/90 backdrop-blur-md   shadow-lg'
                 : 'bg-transparent'
             }
           `}
