@@ -5,7 +5,7 @@ import dd from "@/assets/digdig.png";
 import vs from "@/assets/vietstats.png";
 export const projects = [
   {
-    name: 'SA World Ecosystem',
+    name: 'SA World',
     desc: [
       'A web-based ecosystem integrating multiple HTML5 mini-games where users can play, earn points, and redeem rewards through the platform’s store.',
       'Designed a gamification system with point accumulation, leaderboard competitions, and limited-time events.',
@@ -15,7 +15,7 @@ export const projects = [
     ],
     techs: 'Next.js, Redux-toolkit, Ant Design, SASS, Tailwind',
     role: 'Front-end Developer',
-    link: 'https://saworld.io/ecosystem',
+    link: 'https://saworld.io/',
     company: 'Onechain Technology Joint Stock Company',
   },
    {
