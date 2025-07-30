@@ -18,7 +18,7 @@ function ExperienceSection() {
         'Working with NextJS, ReactJS, Redux, WebSocket, and RESTful APIs.',
         'Developed a website providing economic data, charts, economic reports, and news.',
         'Built an admin system for uploading and managing economic data, reports, and news.',
-        'Contributing ideas and suggestions for product improvement.'
+        'Contributing ideas and suggestions for product improvement.',
       ],
       technologies: [
         'TypeScript',
@@ -27,7 +27,7 @@ function ExperienceSection() {
         'WebSocket',
         'Redux-toolkit',
         'Ant Design',
-        'Shadcn'
+        'Shadcn',
       ],
     },
     {
@@ -51,7 +51,7 @@ function ExperienceSection() {
         'Nuxt.js',
         'Shadcn',
         'Ant Design',
-        'MUI'
+        'MUI',
       ],
     },
     {
@@ -67,9 +67,18 @@ function ExperienceSection() {
         'Collaborating with QC teams in bug checking.',
         'Supporting and reviewing code for intern colleagues.',
         'Contributing ideas and suggestions for product improvement.',
-
       ],
-      technologies: ['React.js', 'Next.js', 'Redux-toolkit', 'Ant Design', 'MUI'],
+      technologies: [
+        'React.js',
+        'Next.js',
+        'Redux-toolkit',
+        'Ant Design',
+        'MUI',
+        'Bootstrap',
+        'Chakra UI',
+        'SASS',
+        'Tailwind',
+      ],
     },
   ];
 

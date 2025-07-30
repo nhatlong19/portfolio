@@ -18,7 +18,9 @@ const AnimatedBackground: React.FC<AnimatedBackgroundProps> = () => {
   }, []);
 
   return (
-    <div className="fixed inset-0 z-0">
+    <div 
+    // className="fixed inset-0 z-0"
+    >
       <Particles
         id="tsparticles"
         init={particlesInit}

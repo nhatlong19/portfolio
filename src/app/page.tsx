@@ -325,6 +325,10 @@ export default function Home() {
               'Ant Design',
               'MUI',
               'Shadcn',
+              'Bootstrap',
+              'Chakra UI',
+              'SASS',
+              'Tailwind',
               'Github Action',
               'Teamwork',
             ].map((skill) => (
@@ -423,12 +427,12 @@ export default function Home() {
         </section>
 
         {/* EDUCATION SECTION */}
-        {/* <section id="projects" className="py-12 max-w-7xl mx-auto w-full px-4">
+        <section id="projects" className="py-12 max-w-7xl mx-auto w-full px-4">
           <h2 className="text-2xl font-bold mb-4 text-blue-700 dark:text-blue-400">
-            Personal Project
+            Key Projects
           </h2>
           <SessionProjects />
-        </section> */}
+        </section>
 
         {/* EDUCATION SECTION */}
         <section id="education" className="py-12 max-w-5xl mx-auto w-full px-4">
