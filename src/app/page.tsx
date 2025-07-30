@@ -129,14 +129,14 @@ export default function Home() {
                   Experience
                 </a>
               </li>
-              {/* <li>
+              <li>
                 <a
                   className="text-black/80 dark:text-white/80 hover:text-blue-500 dark:hover:text-blue-400 transition-colors duration-200"
                   href="#projects"
                 >
                   Projects
                 </a>
-              </li> */}
+              </li>
               <li>
                 <a
                   className="text-black/80 dark:text-white/80 hover:text-blue-500 dark:hover:text-blue-400 transition-colors duration-200"
