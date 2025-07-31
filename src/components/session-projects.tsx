@@ -44,7 +44,7 @@ export const projects = [
     techs: 'Next.js, Shopify',
     role: 'Front-end Developer',
     link: 'https://digdig.app',
-    company: 'NCC ASIA',
+    company: 'freelance projects (team)',
     img: dd,
   },
 ];

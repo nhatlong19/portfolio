@@ -183,7 +183,7 @@ export default function Home() {
                   className="w-full h-full object-cover"
                 />
               </div>
-              <h1 className="text-4xl md:text-5xl font-extrabold bg-gradient-to-br from-black via-blue-700 to-purple-700 dark:from-white dark:via-blue-200 dark:to-purple-200 bg-clip-text text-transparent mb-2 drop-shadow-lg">
+              <h1 className="text-4xl md:text-5xl font-extrabold bg-gradient-to-br from-black via-blue-700 to-purple-700 dark:from-white dark:via-blue-200 dark:to-purple-200 bg-clip-text text-transparent mb-3 drop-shadow-lg h-[56px]">
                 Lý Nhật Long
               </h1>
               <h2 className="text-xl md:text-2xl font-semibold text-blue-700 dark:text-blue-400 mb-4 tracking-wide">

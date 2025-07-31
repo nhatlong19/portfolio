@@ -12,7 +12,7 @@ function ExperienceSection() {
     {
       company: 'Vietstats Co., Ltd',
       logo: 'VS',
-      period: 'Apr 2024 – Present',
+      period: 'June 2024 – Present',
       role: 'Front-end Developer',
       desc: [
         'Working with NextJS, ReactJS, Redux, WebSocket, and RESTful APIs.',
@@ -28,30 +28,6 @@ function ExperienceSection() {
         'Redux-toolkit',
         'Ant Design',
         'Shadcn',
-      ],
-    },
-    {
-      company: 'NCC ASIA',
-      logo: 'NCC',
-      period: 'June 2022 – Sep 2024',
-      role: 'Front-end Developer',
-      desc: [
-        'Working with NextJS, ReactJS, Vue.js, Nuxt, React Native.',
-        'Build websites using Next.js, React.js, Vue.js',
-        'Implement APIs with REST API or GraphQL',
-        'Coding, fix bugs in the mobile app using React Native, Expo',
-      ],
-      technologies: [
-        'React.js',
-        'Next.js',
-        'TypeScript',
-        'Redux-toolkit',
-        'Vue.js',
-        'Next.js',
-        'Nuxt.js',
-        'Shadcn',
-        'Ant Design',
-        'MUI',
       ],
     },
     {
